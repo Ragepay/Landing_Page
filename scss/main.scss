@@ -1,0 +1,23 @@
+// Imoportacion de modulos con @import para poder utilizar variables y mixins.
+
+//Variables.
+@import 'utilities/variables';
+
+//mixins.
+@import 'utilities/mixins';
+
+// layout
+@import 'components/header';
+@import 'components/footer';
+
+//pages
+@import 'pages/index';
+@import 'pages/carrito';
+@import 'pages/contacto';
+@import 'pages/historia';
+@import 'pages/productos';
+
+
+//media querys
+@import 'utilities/mediaquery';
+
