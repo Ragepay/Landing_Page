@@ -13,13 +13,13 @@ header nav {
   justify-content: center;
   align-items: center;
 }
-header nav .logo {
+header .logo {
   cursor: pointer;
 }
-header nav .logo img:hover {
+header .logo img:hover {
   transform: scale(1.15);
 }
-header nav a img {
+header a img {
   margin: 20px;
   height: 10vh;
   transition: all 0.3s;
